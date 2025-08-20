@@ -16,4 +16,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SYMBOL_VERSION: 3
           SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "False"
           LOCALE: zh
