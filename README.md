@@ -89,3 +89,6 @@ C#                       5 repos             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
  Last Updated on 21/08/2025 02:41:01 UTC
 <!--END_SECTION:waka-->
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
