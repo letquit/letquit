@@ -1,6 +1,18 @@
 # 👋 Hey，你好！
+<strong>Today's developer quotes</strong>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<strong></strong>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letquit)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=letquit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<strong></strong>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=letquit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)\
+
+<strong>WakaTime</strong>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C590%20hrs%2048%20mins-blue)
 
