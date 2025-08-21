@@ -1,6 +1,5 @@
 # 👋 Hey，你好！
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
+[![trophy](https://github-profile-trophy.vercel.app/?username=letquit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C590%20hrs%2048%20mins-blue)
