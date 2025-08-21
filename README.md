@@ -1,16 +1,6 @@
 # 👋 Hey，你好！
-<p align="center">
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letquit)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-<p align="center">
-        [![trophy](https://github-profile-trophy.vercel.app/?username=letquit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letquit)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=letquit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C590%20hrs%2048%20mins-blue)
 
@@ -93,6 +83,9 @@ C#                       5 repos             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
  Last Updated on 21/08/2025 02:41:01 UTC
 <!--END_SECTION:waka-->
+
+[![letquit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=letquit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
