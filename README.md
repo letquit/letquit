@@ -1,5 +1,11 @@
 # 👋 Hey，你好！
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letquit)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=letquit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C590%20hrs%2048%20mins-blue)
