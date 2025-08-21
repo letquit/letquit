@@ -1,10 +1,14 @@
 # 👋 Hey，你好！
+<p align="center">
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letquit)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<p align="center">
+        [![trophy](https://github-profile-trophy.vercel.app/?username=letquit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letquit)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=letquit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--START_SECTION:waka-->
