@@ -11,6 +11,7 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=letquit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=letquit)](https://github.com/ryo-ma/github-profile-trophy)
 
 <strong>WakaTime</strong>
 <!--START_SECTION:waka-->
