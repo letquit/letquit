@@ -17,9 +17,6 @@
 <strong>WakaTime Time</strong>
 [![wakatime](https://wakatime.com/badge/user/b41076dd-e19e-4f9a-beeb-289d817bccf8.svg?style=flat-square)](https://wakatime.com/@b41076dd-e19e-4f9a-beeb-289d817bccf8)
 
-<a href="https://wakatime.com/@b41076dd-e19e-4f9a-beeb-289d817bccf8">
-    <img src="https://wakatime.com/badge/user/b41076dd-e19e-4f9a-beeb-289d817bccf8.svg" alt="Total time coded since Apr 12 2021" />
-</a>
 
 **🐱 我的 GitHub 数据** 
 
