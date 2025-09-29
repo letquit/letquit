@@ -43,7 +43,7 @@ Mathematica              2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 **时间线**
 
-![Lines of Code chart](https://raw.githubusercontent.com/letquit/letquit/main/assets/bar_graph.png)
+<figure><embed src="https://wakatime.com/share/@letquit/c434c12b-7be9-4027-af3b-071ad38ab4b2.svg"></embed></figure>
 
 
  Last Updated on 28/09/2025 16:24:10 UTC
