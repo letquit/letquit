@@ -15,8 +15,8 @@
 
 
 <strong>WakaTime Time</strong>
-<strong></strong>
-[![wakatime](https://wakatime.com/badge/user/b41076dd-e19e-4f9a-beeb-289d817bccf8.svg?style=flat-square)](https://wakatime.com/@b41076dd-e19e-4f9a-beeb-289d817bccf8)
+
+[![wakatime](https://wakatime.com/badge/user/b41076dd-e19e-4f9a-beeb-289d817bccf8.svg?style=plastic)](https://wakatime.com/@b41076dd-e19e-4f9a-beeb-289d817bccf8)
 
 
 **🐱 我的 GitHub 数据** 
