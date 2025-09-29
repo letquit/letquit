@@ -39,6 +39,11 @@ ShaderLab                5 repos             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 Mathematica              2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.70 % 
 ```
 
+### 📈 编码语言统计
+
+<p align="center">
+  <img src="https://wakatime.com/share/@letquit/3801b005-2d01-4ef7-a3cd-fdbd0ddf169e.svg" alt="WakaTime coding activity" />
+</p>
 
 
 **时间线**
