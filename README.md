@@ -47,6 +47,7 @@ Mathematica              2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <img src="https://wakatime.com/share/@letquit/c434c12b-7be9-4027-af3b-071ad38ab4b2.svg" alt="WakaTime Timeline" width="800" />
 </p>
 
+<img src="https://wakatime.com/share/@letquit/04c2e341-48bd-47d9-9409-d2d658431c07.svg" alt="WakaTime coding activity chart" />
 
  Last Updated on 28/09/2025 16:24:10 UTC
 <!--END_SECTION:waka-->
