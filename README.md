@@ -45,6 +45,11 @@ Mathematica              2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <img src="https://wakatime.com/share/@letquit/3801b005-2d01-4ef7-a3cd-fdbd0ddf169e.svg" alt="WakaTime coding activity" />
 </p>
 
+### 📊 我的编码活动统计
+
+<div align="center">
+  <img src="https://wakatime.com/share/@letquit/79d3cbfa-69c9-4d19-8c4f-b17114d0fb70.svg" alt="WakaTime Coding Stats" />
+</div>
 
 **时间线**
 
