@@ -80,13 +80,6 @@ ShaderLab                5 repos             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 Mathematica              2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.70 % 
 ```
 
-
-
-**时间线**
-
-![Lines of Code chart](https://raw.githubusercontent.com/letquit/letquit/main/assets/bar_graph.png)
-
-
  Last Updated on 29/09/2025 16:23:11 UTC
 <!--END_SECTION:waka-->
 
