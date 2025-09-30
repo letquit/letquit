@@ -3,33 +3,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<strong>WakaTime Time</strong>
-
-[![wakatime](https://wakatime.com/badge/user/b41076dd-e19e-4f9a-beeb-289d817bccf8.svg?style=plastic)](https://wakatime.com/@b41076dd-e19e-4f9a-beeb-289d817bccf8)
-
 <strong></strong>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letquit)](https://github.com/anuraghazra/github-readme-stats)
-
-<strong></strong>
-
-### 📈 编码语言统计
-
-<p align="center">
-  <img src="https://wakatime.com/share/@letquit/3801b005-2d01-4ef7-a3cd-fdbd0ddf169e.svg" alt="WakaTime coding activity" />
-</p>
-
-### 📊 我的编码活动统计
-
-<div align="center">
-  <img src="https://wakatime.com/share/@letquit/79d3cbfa-69c9-4d19-8c4f-b17114d0fb70.svg" alt="WakaTime Coding Stats" />
-</div>
-
-<p align="center">
-  <img src="https://wakatime.com/share/@letquit/c434c12b-7be9-4027-af3b-071ad38ab4b2.svg" alt="WakaTime Timeline" width="800" />
-</p>
-
-<img src="https://wakatime.com/share/@letquit/04c2e341-48bd-47d9-9409-d2d658431c07.svg" alt="WakaTime coding activity chart" />
 
 <strong>WakaTime</strong>
 <!--START_SECTION:waka-->
@@ -115,6 +89,24 @@ Mathematica              2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
  Last Updated on 29/09/2025 16:23:11 UTC
 <!--END_SECTION:waka-->
+
+### 📈 编码语言统计
+
+<p align="center">
+  <img src="https://wakatime.com/share/@letquit/3801b005-2d01-4ef7-a3cd-fdbd0ddf169e.svg" alt="WakaTime coding activity" />
+</p>
+
+### 📊 我的编码活动统计
+
+<div align="center">
+  <img src="https://wakatime.com/share/@letquit/79d3cbfa-69c9-4d19-8c4f-b17114d0fb70.svg" alt="WakaTime Coding Stats" />
+</div>
+
+<p align="center">
+  <img src="https://wakatime.com/share/@letquit/c434c12b-7be9-4027-af3b-071ad38ab4b2.svg" alt="WakaTime Timeline" width="800" />
+</p>
+
+<img src="https://wakatime.com/share/@letquit/04c2e341-48bd-47d9-9409-d2d658431c07.svg" alt="WakaTime coding activity chart" />
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
