@@ -102,7 +102,7 @@ KerboScript              1 repo              ░░░░░░░░░░░�
   <img src="https://wakatime.com/share/@letquit/c434c12b-7be9-4027-af3b-071ad38ab4b2.svg" alt="WakaTime Timeline" width="800" />
 </p>
 
-<img src="https://wakatime.com/share/@letquit/04c2e341-48bd-47d9-9409-d2d658431c07.svg" alt="WakaTime coding activity chart" />
+<img src="https://wakatime.com/share/@letquit/2a353e8d-4ba0-44dc-b7e0-5b026a6741d2.png" alt="WakaTime coding activity chart" />
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
