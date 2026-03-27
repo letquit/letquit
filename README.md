@@ -1,4 +1,7 @@
 # 👋 Hey，你好！
+<p align="center">
+  <img src="https://letquit.github.io/READMESVG/svg.svg?v=20260327" alt="Glitch SVG" width="100%" />
+</p>
 <strong>Today's developer quotes</strong>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
