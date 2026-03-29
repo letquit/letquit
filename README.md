@@ -1,6 +1,6 @@
 # 👋 Hey，你好！
 <p align="center">
-  <img src="https://letquit.github.io/READMESVG/svg.svg?v=20260327" alt="Glitch SVG" width="100%" />
+  <img src="https://letquit.github.io/READMESVG/svg.svg" alt="Glitch SVG" width="100%" />
 </p>
 <strong>Today's developer quotes</strong>
 
