@@ -8,6 +8,13 @@
 
 <strong></strong>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/letquit/letquit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/letquit/letquit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/letquit/letquit/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <strong>WakaTime</strong>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-74.7%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
