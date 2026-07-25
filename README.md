@@ -58,27 +58,28 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-unity                    6 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.93% 
-C#                       5 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.88% 
-Unity3D Asset            2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.49% 
-Other                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
-GitIgnore file           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43%
+unity                    8 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.63% 
+C#                       6 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.23% 
+Unity3D Asset            2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
+Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.83%
 
 🔥 编辑器: 
-Rider                    8 hrs 56 mins       ██████████████░░░░░░░░░░░   55.79% 
-Unity                    4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   30.02% 
-VS Code                  2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.19%
+Rider                    9 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.38% 
+Unity                    6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.01% 
+VS Code                  3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21% 
+Claude Code              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
 
 🐱‍💻 项目: 
-Pixel-Game-Studio        7 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.97% 
-Unity-Input-UI-Conflict-F2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
-Unity-Reflex-DI-Tutorial 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
-Unity-CloudCode-GlobalSco57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.99% 
-Unity-Custom-Timeline-Tra39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.13%
+Pixel-Game-Studio        10 hrs 59 mins      ██████████████░░░░░░░░░░░   55.71% 
+Unity-GraphToolkit-StateM2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
+Unity-Reflex-DI-Tutorial 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
+Unity-CloudCode-GlobalSco57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.86% 
+Unity-Input-UI-Conflict-F46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.9%
 
 💻 操作系统: 
-Windows                  11 hrs 12 mins      █████████████████░░░░░░░░   69.98% 
-Unknown OS               4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   30.02%
+Windows                  13 hrs 25 mins      █████████████████░░░░░░░░   67.99% 
+Unknown OS               6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.01%
 
 ```
 
@@ -92,7 +93,7 @@ ShaderLab                16 repos            ████░░░░░░░�
 
 
 
- Last Updated on 24/07/2026
+ Last Updated on 25/07/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
