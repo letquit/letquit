@@ -15,25 +15,25 @@
 
 <strong>WakaTime</strong>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-90.4%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-88.1%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 620 今年的贡献 2026
+> 🏆 622 今年的贡献 2026
  > 
 > 📦 8.8 MB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
-> 📜 175 公共仓库 
+> 📜 176 公共仓库 
  > 
 > 🔑 1 私人仓库 
  > 
 **我是早起的 🐤** 
 
 ```text
-🌞 早晨         54 commits     █████░░░░░░░░░░░░░░░░░░░░   22.69% 
-🌆 白天         98 commits     ██████████░░░░░░░░░░░░░░░   41.18% 
+🌞 早晨         53 commits     █████░░░░░░░░░░░░░░░░░░░░   22.27% 
+🌆 白天         99 commits     ██████████░░░░░░░░░░░░░░░   41.6% 
 🌃 傍晚         65 commits     ██████░░░░░░░░░░░░░░░░░░░   27.31% 
 🌙 晚上         21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82%
 
@@ -44,9 +44,9 @@
 星期一          45 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.91% 
 星期二          50 commits     █████░░░░░░░░░░░░░░░░░░░░   21.01% 
 星期三          25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
-星期四          26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
+星期四          24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.08% 
 星期五          33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-星期六          33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
+星期六          35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
 星期天          26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.92%
 
 ```
@@ -58,28 +58,28 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-unity                    8 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.63% 
-C#                       6 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.23% 
-Unity3D Asset            2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
-Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.83%
+unity                    10 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   38.27% 
+C#                       9 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   34.25% 
+Markdown                 3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49% 
+Unity3D Asset            2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
+Other                    1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.7%
 
 🔥 编辑器: 
-Rider                    9 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.38% 
-Unity                    6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.01% 
-VS Code                  3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21% 
-Claude Code              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
+Rider                    12 hrs 20 mins      ███████████░░░░░░░░░░░░░░   46.85% 
+Unity                    7 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.05% 
+VS Code                  6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.05% 
+Claude Code              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
 
 🐱‍💻 项目: 
-Pixel-Game-Studio        10 hrs 59 mins      ██████████████░░░░░░░░░░░   55.71% 
-Unity-GraphToolkit-StateM2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
-Unity-Reflex-DI-Tutorial 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
-Unity-CloudCode-GlobalSco57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.86% 
-Unity-Input-UI-Conflict-F46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.9%
+Pixel-Game-Studio        16 hrs 37 mins      ███████████████░░░░░░░░░░   63.13% 
+Unity-GraphToolkit-StateM3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53% 
+Unity-Reflex-DI-Tutorial 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.42% 
+Unity-CloudCode-GlobalSco57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
+Unity-Custom-Timeline-Tra39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
 
 💻 操作系统: 
-Windows                  13 hrs 25 mins      █████████████████░░░░░░░░   67.99% 
-Unknown OS               6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.01%
+Windows                  18 hrs 56 mins      ██████████████████░░░░░░░   71.95% 
+Unknown OS               7 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.05%
 
 ```
 
@@ -93,7 +93,7 @@ ShaderLab                16 repos            ████░░░░░░░�
 
 
 
- Last Updated on 25/07/2026
+ Last Updated on 26/07/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
