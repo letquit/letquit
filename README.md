@@ -58,27 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       11 hrs 56 mins      ███████████░░░░░░░░░░░░░░   46.58% 
-unity                    9 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   38.08% 
-XAML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.92% 
-Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.99% 
-Unity3D Asset            32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+C#                       9 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.21% 
+unity                    5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21% 
+Other                    2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
+XAML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
+Markdown                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.45%
 
 🔥 编辑器: 
-Rider                    11 hrs 33 mins      ███████████░░░░░░░░░░░░░░   45.08% 
-Unity                    9 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   38.08% 
-VS Code                  4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85%
+VS Code                  11 hrs 20 mins      ███████████░░░░░░░░░░░░░░   47.35% 
+Rider                    6 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.45% 
+Unity                    5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21%
 
 🐱‍💻 项目: 
-Pixel-Game-Studio        8 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.72% 
-Unity-CullingGroup-API   3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
-Unity-MTV-Collision-Resol2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
-Unity-Targeting-System   2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
-test1                    1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.63%
+test1                    7 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
+Unity-MTV-Collision-Resol3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.13% 
+Pixel-Game-Studio        3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
+Unity-Targeting-System   2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
+Unity-GC-Visualizer      2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.24%
 
 💻 操作系统: 
-Windows                  15 hrs 52 mins      ███████████████░░░░░░░░░░   61.92% 
-Unknown OS               9 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   38.08%
+Windows                  18 hrs 9 mins       ███████████████████░░░░░░   75.79% 
+Unknown OS               5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21%
 
 ```
 
@@ -92,7 +92,7 @@ ShaderLab                15 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026
+ Last Updated on 08/08/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
