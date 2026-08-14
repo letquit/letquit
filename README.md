@@ -58,27 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       7 hrs 40 mins       ███████████████░░░░░░░░░░   59.56% 
-unity                    3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   27.4% 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.01% 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.8% 
-Csproj                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
+C#                       7 hrs 44 mins       ██████████████░░░░░░░░░░░   58.85% 
+unity                    3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.43% 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.73% 
+Csproj                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
 
 🔥 编辑器: 
-Rider                    7 hrs 27 mins       ██████████████░░░░░░░░░░░   57.84% 
-Unity                    3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   27.4% 
-VS Code                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.76%
+Rider                    8 hrs 5 mins        ███████████████░░░░░░░░░░   61.47% 
+Unity                    3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.43% 
+VS Code                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.1%
 
 🐱‍💻 项目: 
-Unity-CSharp-Extensions-P2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93% 
-Unity-GC-Visualizer      2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.57% 
-PrimeTween-ZeroAlloc-Exam1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Unity-JobsProfiler-Explor1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
-Unity-Fluent-Generic-Pipe1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.24%
+Unity-CSharp-Extensions-P2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49% 
+Unity-Fluent-Generic-Pipe2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.95% 
+PrimeTween-ZeroAlloc-Exam1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
+Unity-GC-Visualizer      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
+Unity-JobsProfiler-Explor1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68%
 
 💻 操作系统: 
-Windows                  9 hrs 21 mins       ██████████████████░░░░░░░   72.6% 
-Unknown OS               3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   27.4%
+Windows                  9 hrs 24 mins       ██████████████████░░░░░░░   71.57% 
+Unknown OS               3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.43%
 
 ```
 
@@ -92,7 +92,7 @@ ShaderLab                14 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026
+ Last Updated on 14/08/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
