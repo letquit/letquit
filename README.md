@@ -15,17 +15,17 @@
 
 <strong>WakaTime</strong>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-101.3%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-101.4%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 645 今年的贡献 2026
+> 🏆 646 今年的贡献 2026
  > 
 > 📦 9.2 MB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
-> 📜 193 公共仓库 
+> 📜 194 公共仓库 
  > 
 > 🔑 1 私人仓库 
  > 
@@ -46,8 +46,8 @@
 星期三          21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
 星期四          24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
 星期五          28 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
-星期六          23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-星期天          21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.67%
+星期六          24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+星期天          20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
@@ -58,27 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       8 hrs 24 mins       ██████████████░░░░░░░░░░░   56.09% 
-unity                    4 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.72% 
+C#                       8 hrs 35 mins       ██████████████░░░░░░░░░░░   57.47% 
+unity                    4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   31.3% 
 JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.17% 
-Other                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27% 
-Csproj                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
+Other                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
+Csproj                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75%
 
 🔥 编辑器: 
-Rider                    8 hrs 45 mins       ██████████████░░░░░░░░░░░   58.41% 
-Unity                    4 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.72% 
-VS Code                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.87%
+Rider                    8 hrs 56 mins       ███████████████░░░░░░░░░░   59.82% 
+Unity                    4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   31.3% 
+VS Code                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.88%
 
 🐱‍💻 项目: 
-Unity-CSharp-Extensions-P2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.87% 
-Unity-Fluent-Generic-Pipe2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64% 
-PrimeTween-ZeroAlloc-Exam1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
-Unity-GC-Visualizer      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.37% 
-Unity-JobsProfiler-Explor1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.26%
+Unity-CSharp-Extensions-P2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.89% 
+Unity-Fluent-Generic-Pipe2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66% 
+PrimeTween-ZeroAlloc-Exam1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
+Unity-JobsProfiler-Explor1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+Pixel-Game-Studio        1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
 
 💻 操作系统: 
-Windows                  10 hrs 4 mins       ████████████████░░░░░░░░░   67.28% 
-Unknown OS               4 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.72%
+Windows                  10 hrs 16 mins      █████████████████░░░░░░░░   68.7% 
+Unknown OS               4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   31.3%
 
 ```
 
@@ -92,7 +92,7 @@ ShaderLab                14 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026
+ Last Updated on 16/08/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
