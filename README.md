@@ -58,27 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       8 hrs 35 mins       ██████████████░░░░░░░░░░░   57.47% 
-unity                    4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   31.3% 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.17% 
-Other                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
-Csproj                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75%
+C#                       7 hrs 35 mins       ██████████████░░░░░░░░░░░   56.3% 
+unity                    4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   30.44% 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
+Csproj                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
 
 🔥 编辑器: 
-Rider                    8 hrs 56 mins       ███████████████░░░░░░░░░░   59.82% 
-Unity                    4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   31.3% 
-VS Code                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.88%
+Rider                    8 hrs 30 mins       ███████████████░░░░░░░░░░   63.21% 
+Unity                    4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   30.44% 
+Codex Vscode             51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.35%
 
 🐱‍💻 项目: 
-Unity-CSharp-Extensions-P2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.89% 
-Unity-Fluent-Generic-Pipe2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66% 
-PrimeTween-ZeroAlloc-Exam1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
-Unity-JobsProfiler-Explor1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
-Pixel-Game-Studio        1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
+Pixel-Game-Studio        2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.74% 
+Unity-CSharp-Extensions-P2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98% 
+Unity-Fluent-Generic-Pipe2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
+Unity-JobsProfiler-Explor1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
+Unity-Clean-Code-Refactor1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.04%
 
 💻 操作系统: 
-Windows                  10 hrs 16 mins      █████████████████░░░░░░░░   68.7% 
-Unknown OS               4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   31.3%
+Windows                  9 hrs 22 mins       █████████████████░░░░░░░░   69.56% 
+Unknown OS               4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   30.44%
 
 ```
 
@@ -92,7 +92,7 @@ ShaderLab                14 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026
+ Last Updated on 17/08/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
