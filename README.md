@@ -58,27 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       8 hrs 25 mins       ██████████████░░░░░░░░░░░   55.58% 
-unity                    4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   27.26% 
-Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
-HLSL                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
-Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39%
+C#                       7 hrs 18 mins       ███████████████░░░░░░░░░░   62.92% 
+unity                    2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.62% 
+HLSL                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
+Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+ShaderLab                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85%
 
 🔥 编辑器: 
-Rider                    9 hrs 16 mins       ███████████████░░░░░░░░░░   61.17% 
-Unity                    4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   27.26% 
-Codex Vscode             1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56%
+Rider                    7 hrs 51 mins       █████████████████░░░░░░░░   67.64% 
+Unity                    2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.62% 
+Codex Vscode             53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.74%
 
 🐱‍💻 项目: 
-Unity6-UIToolkit-RuntimeB4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   26.78% 
-Pixel-Game-Studio        2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
-Unity-Beginner-Architectu1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
-Unity-Compute-Shader-Tuto1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
-Unity6-Toolbars-API-Tutor1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.6%
+Unity6-UIToolkit-RuntimeB4 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   34.98% 
+Unity-Beginner-Architectu1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.65% 
+Unity-Compute-Shader-Tuto1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
+Unity6-Toolbars-API-Tutor1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+Unity-Abstract-vs-Generic1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.8%
 
 💻 操作系统: 
-Windows                  11 hrs 1 min        ██████████████████░░░░░░░   72.74% 
-Unknown OS               4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   27.26%
+Windows                  8 hrs 45 mins       ██████████████████░░░░░░░   75.38% 
+Unknown OS               2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.62%
 
 ```
 
@@ -92,7 +92,7 @@ ShaderLab                14 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026
+ Last Updated on 22/08/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
