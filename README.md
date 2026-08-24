@@ -58,27 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       7 hrs 29 mins       ███████████████░░░░░░░░░░   61.33% 
-unity                    3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.63% 
-HLSL                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.36% 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.07% 
-ShaderLab                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+C#                       7 hrs 50 mins       ███████████████░░░░░░░░░░   60.9% 
+unity                    3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   26.56% 
+HLSL                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.87% 
+ShaderLab                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57%
 
 🔥 编辑器: 
-Rider                    8 hrs 3 mins        ████████████████░░░░░░░░░   65.91% 
-Unity                    3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.63% 
-Codex Vscode             1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.46%
+Rider                    8 hrs 24 mins       ████████████████░░░░░░░░░   65.41% 
+Unity                    3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   26.56% 
+Codex Vscode             1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.03%
 
 🐱‍💻 项目: 
-Unity6-UIToolkit-RuntimeB4 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.25% 
-Unity-Beginner-Architectu1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82% 
-Unity-Compute-Shader-Tuto1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
-Unity6-Toolbars-API-Tutor1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
-CSharp-CPP-Marshaling-Dem1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.8%
+Unity6-UIToolkit-RuntimeB4 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.59% 
+Unity-Beginner-Architectu1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
+Unity-Compute-Shader-Tuto1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
+Unity6-Toolbars-API-Tutor1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
+CSharp-CPP-Marshaling-Dem1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.21%
 
 💻 操作系统: 
-Windows                  9 hrs 5 mins        ██████████████████░░░░░░░   74.37% 
-Unknown OS               3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.63%
+Windows                  9 hrs 26 mins       ██████████████████░░░░░░░   73.44% 
+Unknown OS               3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   26.56%
 
 ```
 
@@ -92,7 +92,7 @@ ShaderLab                14 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026
+ Last Updated on 24/08/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
