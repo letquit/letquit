@@ -58,26 +58,26 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       6 hrs 9 mins        ███████████████░░░░░░░░░░   61.96% 
-unity                    3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.08% 
-Csproj                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33% 
-GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62% 
+C#                       5 hrs 35 mins       ██████████████░░░░░░░░░░░   58.33% 
+unity                    3 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   39.38% 
+Csproj                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
+GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
 Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 编辑器: 
-Rider                    6 hrs 21 mins       ████████████████░░░░░░░░░   63.92% 
-Unity                    3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.08%
+Rider                    5 hrs 48 mins       ███████████████░░░░░░░░░░   60.62% 
+Unity                    3 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   39.38%
 
 🐱‍💻 项目: 
-Unity6-EQS-FromScratch   3 hrs               ███████░░░░░░░░░░░░░░░░░░   30.23% 
-Unity-Awaitable-Async-Gui2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.53% 
-CSharp-CPP-Marshaling-Dem1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
-Unity-Delegates-Closures-1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.8% 
-Unity-Abstract-vs-Generic1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.6%
+Unity6-EQS-FromScratch   3 hrs               ███████░░░░░░░░░░░░░░░░░░   31.35% 
+Unity-Awaitable-Async-Gui2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   22.33% 
+CSharp-CPP-Marshaling-Dem1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
+Unity-Delegates-Closures-1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
+Unity-Certification-Gotch1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   11.41%
 
 💻 操作系统: 
-Windows                  6 hrs 21 mins       ████████████████░░░░░░░░░   63.92% 
-Unknown OS               3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.08%
+Windows                  5 hrs 48 mins       ███████████████░░░░░░░░░░   60.62% 
+Unknown OS               3 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   39.38%
 
 ```
 
@@ -91,7 +91,7 @@ ShaderLab                13 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026
+ Last Updated on 28/08/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
