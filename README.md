@@ -58,27 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       11 hrs 2 mins       █████████████░░░░░░░░░░░░   53.65% 
-unity                    7 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   34.6% 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
-JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
+C#                       9 hrs 26 mins       ████████████░░░░░░░░░░░░░   50.22% 
+unity                    6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.03% 
+Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75%
 
 🔥 编辑器: 
-Rider                    11 hrs 35 mins      ██████████████░░░░░░░░░░░   56.37% 
-Unity                    7 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   34.6% 
-Codex Vscode             1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.04%
+Rider                    9 hrs 58 mins       █████████████░░░░░░░░░░░░   53.08% 
+Unity                    6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.03% 
+Codex Vscode             1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.89%
 
 🐱‍💻 项目: 
-Unity-Socket-Building-Sys4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01% 
-Unity-UIToolkit-RadialMen4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.64% 
-LitMotion-Unity-Practical3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.34% 
-GameDev-Complexity-Enemy 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.19% 
-Unity6-GPUMeshParticles-R1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+Unity-Socket-Building-Sys4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   26.28% 
+Unity-UIToolkit-RadialMen4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.5% 
+LitMotion-Unity-Practical3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07% 
+GameDev-Complexity-Enemy 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
+Unity6-GPUMeshParticles-R1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.81%
 
 💻 操作系统: 
-Windows                  13 hrs 27 mins      ████████████████░░░░░░░░░   65.4% 
-Unknown OS               7 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   34.6%
+Windows                  11 hrs 49 mins      ███████████████░░░░░░░░░░   62.97% 
+Unknown OS               6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.03%
 
 ```
 
@@ -92,7 +92,7 @@ ShaderLab                14 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026
+ Last Updated on 06/09/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
