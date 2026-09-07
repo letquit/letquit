@@ -15,25 +15,25 @@
 
 <strong>WakaTime</strong>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-57.1%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-57.2%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 665 今年的贡献 2026
+> 🏆 666 今年的贡献 2026
  > 
 > 📦 9.5 MB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
-> 📜 213 公共仓库 
+> 📜 214 公共仓库 
  > 
 > 🔑 1 私人仓库 
  > 
 **我是早起的 🐤** 
 
 ```text
-🌞 早晨         21 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-🌆 白天         68 commits     ████████████░░░░░░░░░░░░░   50.75% 
+🌞 早晨         22 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.42% 
+🌆 白天         67 commits     ████████████░░░░░░░░░░░░░   50.0% 
 🌃 傍晚         33 commits     ██████░░░░░░░░░░░░░░░░░░░   24.63% 
 🌙 晚上         12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.96%
 
@@ -41,12 +41,12 @@
 📅 **我最有效率是 星期一** 
 
 ```text
-星期一          28 commits     █████░░░░░░░░░░░░░░░░░░░░   20.9% 
+星期一          29 commits     █████░░░░░░░░░░░░░░░░░░░░   21.64% 
 星期二          24 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
 星期三          11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
 星期四          11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
 星期五          21 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-星期六          22 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.42% 
+星期六          21 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
 星期天          17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69%
 
 ```
@@ -58,41 +58,41 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       9 hrs 26 mins       ████████████░░░░░░░░░░░░░   50.22% 
-unity                    6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.03% 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75%
+C#                       7 hrs 34 mins       ████████████░░░░░░░░░░░░░   50.9% 
+unity                    5 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   39.27% 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.57% 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98% 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
 
 🔥 编辑器: 
-Rider                    9 hrs 58 mins       █████████████░░░░░░░░░░░░   53.08% 
-Unity                    6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.03% 
-Codex Vscode             1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.89%
+Rider                    7 hrs 53 mins       █████████████░░░░░░░░░░░░   52.99% 
+Unity                    5 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   39.27% 
+Codex Vscode             1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.74%
 
 🐱‍💻 项目: 
-Unity-Socket-Building-Sys4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   26.28% 
-Unity-UIToolkit-RadialMen4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.5% 
-LitMotion-Unity-Practical3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07% 
-GameDev-Complexity-Enemy 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
-Unity6-GPUMeshParticles-R1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.81%
+Unity-Socket-Building-Sys4 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.69% 
+Unity-UIToolkit-RadialMen4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   27.1% 
+GameDev-Complexity-Enemy 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
+Unity6-GPUMeshParticles-R1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
+Unity-Reactive-Collection1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.49%
 
 💻 操作系统: 
-Windows                  11 hrs 49 mins      ███████████████░░░░░░░░░░   62.97% 
-Unknown OS               6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.03%
+Windows                  9 hrs 2 mins        ███████████████░░░░░░░░░░   60.73% 
+Unknown OS               5 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   39.27%
 
 ```
 
 **我主要编写 C#** 
 
 ```text
-C#                       86 repos            █████████████████████░░░░   86.0% 
-ShaderLab                14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.0%
+C#                       87 repos            █████████████████████░░░░   87.0% 
+ShaderLab                13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.0%
 
 ```
 
 
 
- Last Updated on 06/09/2026
+ Last Updated on 07/09/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
