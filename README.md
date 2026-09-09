@@ -15,17 +15,17 @@
 
 <strong>WakaTime</strong>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-57.1%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-55.4%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 667 今年的贡献 2026
+> 🏆 668 今年的贡献 2026
  > 
-> 📦 9.5 MB 占用了 GitHub 内存 
+> 📦 9.6 MB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
-> 📜 215 公共仓库 
+> 📜 216 公共仓库 
  > 
 > 🔑 1 私人仓库 
  > 
@@ -41,9 +41,9 @@
 📅 **我最有效率是 星期一** 
 
 ```text
-星期一          30 commits     █████░░░░░░░░░░░░░░░░░░░░   22.39% 
+星期一          29 commits     █████░░░░░░░░░░░░░░░░░░░░   21.64% 
 星期二          24 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
-星期三          11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
+星期三          12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
 星期四          11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
 星期五          21 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
 星期六          21 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
@@ -58,27 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       6 hrs 58 mins       ██████████████░░░░░░░░░░░   56.64% 
-unity                    4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   34.16% 
-Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.2% 
-GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
-HLSL                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
+C#                       6 hrs 14 mins       █████████████░░░░░░░░░░░░   53.05% 
+unity                    4 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.0% 
+Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
+Csproj                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
+GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
 
 🔥 编辑器: 
-Rider                    7 hrs 15 mins       ██████████████░░░░░░░░░░░   58.91% 
-Unity                    4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   34.02% 
-Grok Build               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
+Rider                    6 hrs 36 mins       ██████████████░░░░░░░░░░░   56.14% 
+Unity                    4 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.86% 
+Grok Build               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
 
 🐱‍💻 项目: 
-Unity-UIToolkit-RadialMen3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.83% 
-GameDev-Complexity-Enemy 1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
-Unity-NativeCollections-B1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
-Unity6-GPUMeshParticles-R1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
-Unity-Reactive-Collection1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.48%
+Unity-AI-TargetTracks-Per2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26% 
+GameDev-Complexity-Enemy 1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+Unity-NativeCollections-B1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
+Unity6-GPUMeshParticles-R1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
+Unity-Reactive-Collection1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02%
 
 💻 操作系统: 
-Windows                  8 hrs 7 mins        ████████████████░░░░░░░░░   65.98% 
-Unknown OS               4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   34.02%
+Windows                  7 hrs 32 mins       ████████████████░░░░░░░░░   64.14% 
+Unknown OS               4 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.86%
 
 ```
 
@@ -92,7 +92,7 @@ ShaderLab                12 repos            ███░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026
+ Last Updated on 09/09/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
