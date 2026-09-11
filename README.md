@@ -58,28 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       5 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.49% 
-unity                    5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   30.19% 
-Other                    4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.47% 
-Python                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.75% 
-HLSL                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.71%
+C#                       5 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.45% 
+unity                    4 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.93% 
+Other                    4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   26.79% 
+HLSL                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.11% 
+GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
 
 🔥 编辑器: 
-Rider                    6 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.04% 
-Grok Build               4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.68% 
-Unity                    4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.52% 
-Codex Vscode             48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.75%
+Rider                    6 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.69% 
+Grok Build               4 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   30.28% 
+Unity                    4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.04%
 
 🐱‍💻 项目: 
-Unity-AI-TargetTracks-Per4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   26.0% 
-AAAShioriRebuild         3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59% 
-Unity-NativeCollections-B1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
-Unity6-GPUMeshParticles-R1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.64% 
-Unity-Reactive-Collection1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+Unity-AI-TargetTracks-Per4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.23% 
+AAAShioriRebuild         3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49% 
+Unity-NativeCollections-B1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.95% 
+Unity6-GPUMeshParticles-R1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Unity6-Lifecycle-API-Core1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.08%
 
 💻 操作系统: 
-Windows                  12 hrs 18 mins      ██████████████████░░░░░░░   72.48% 
-Unknown OS               4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.52%
+Windows                  11 hrs 6 mins       █████████████████░░░░░░░░   70.96% 
+Unknown OS               4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.04%
 
 ```
 
@@ -93,7 +92,7 @@ ShaderLab                11 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026
+ Last Updated on 11/09/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
