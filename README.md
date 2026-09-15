@@ -15,25 +15,25 @@
 
 <strong>WakaTime</strong>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-53.8%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-53.9%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 674 今年的贡献 2026
+> 🏆 675 今年的贡献 2026
  > 
 > 📦 9.6 MB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
-> 📜 221 公共仓库 
+> 📜 222 公共仓库 
  > 
 > 🔑 1 私人仓库 
  > 
 **我是早起的 🐤** 
 
 ```text
-🌞 早晨         21 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
-🌆 白天         62 commits     ████████████░░░░░░░░░░░░░   48.82% 
+🌞 早晨         20 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
+🌆 白天         63 commits     ████████████░░░░░░░░░░░░░   49.61% 
 🌃 傍晚         33 commits     ██████░░░░░░░░░░░░░░░░░░░   25.98% 
 🌙 晚上         11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.66%
 
@@ -58,27 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   35.2% 
-unity                    6 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.6% 
-Other                    5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   26.88% 
-HLSL                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.6% 
-GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+C#                       7 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   39.24% 
+unity                    5 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.57% 
+Other                    4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95% 
+HLSL                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.76% 
+GitIgnore file           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 🔥 编辑器: 
-Rider                    7 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.04% 
-Unity                    5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   30.23% 
-Grok Build               5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.73%
+Rider                    8 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.47% 
+Unity                    5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.18% 
+Grok Build               4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   26.35%
 
 🐱‍💻 项目: 
-Unity-AI-TargetTracks-Per4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   23.06% 
-AAAShioriRebuild         4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   22.08% 
-Unity-Pity-System-MonteCa1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
-Unity-Essential-Extension1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
-Unity-TimedInputBuffer-Ge1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
+Unity-AI-TargetTracks-Per4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13% 
+AAAShioriRebuild         4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   23.1% 
+Unity-Pity-System-MonteCa2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
+Unity-Essential-Extension1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
+Alchemy-Unity-Odin-Altern1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.54%
 
 💻 操作系统: 
-Windows                  13 hrs 21 mins      █████████████████░░░░░░░░   69.77% 
-Unknown OS               5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   30.23%
+Windows                  12 hrs 57 mins      █████████████████░░░░░░░░   70.82% 
+Unknown OS               5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.18%
 
 ```
 
@@ -92,7 +92,7 @@ ShaderLab                10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026
+ Last Updated on 15/09/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
