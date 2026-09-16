@@ -58,27 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       7 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   39.24% 
-unity                    5 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.57% 
-Other                    4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95% 
-HLSL                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.76% 
-GitIgnore file           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
+C#                       5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.05% 
+unity                    4 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   30.8% 
+Other                    4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.7% 
+HLSL                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
+GitIgnore file           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
 
 🔥 编辑器: 
-Rider                    8 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.47% 
-Unity                    5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.18% 
-Grok Build               4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   26.35%
+Rider                    6 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.48% 
+Grok Build               4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   30.52% 
+Unity                    4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.0%
 
 🐱‍💻 项目: 
-Unity-AI-TargetTracks-Per4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13% 
-AAAShioriRebuild         4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   23.1% 
-Unity-Pity-System-MonteCa2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
-Unity-Essential-Extension1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
-Alchemy-Unity-Odin-Altern1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.54%
+AAAShioriRebuild         4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   27.11% 
+Unity-Pity-System-MonteCa2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
+Unity-AI-TargetTracks-Per1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
+Unity-Essential-Extension1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
+Alchemy-Unity-Odin-Altern1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.04%
 
 💻 操作系统: 
-Windows                  12 hrs 57 mins      █████████████████░░░░░░░░   70.82% 
-Unknown OS               5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.18%
+Windows                  11 hrs 12 mins      ██████████████████░░░░░░░   72.0% 
+Unknown OS               4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.0%
 
 ```
 
@@ -92,7 +92,7 @@ ShaderLab                10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026
+ Last Updated on 16/09/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
