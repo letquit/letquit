@@ -58,27 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.05% 
-unity                    4 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   30.8% 
-Other                    4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.7% 
-HLSL                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
-GitIgnore file           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
+C#                       5 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.57% 
+unity                    3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.61% 
+Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.53% 
+HLSL                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.42% 
+GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
 
 🔥 编辑器: 
-Rider                    6 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.48% 
-Grok Build               4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   30.52% 
-Unity                    4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.0%
+Rider                    5 hrs 55 mins       ██████████████░░░░░░░░░░░   56.86% 
+Unity                    3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.61% 
+Grok Build               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.53%
 
 🐱‍💻 项目: 
-AAAShioriRebuild         4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   27.11% 
-Unity-Pity-System-MonteCa2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
-Unity-AI-TargetTracks-Per1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
-Unity-Essential-Extension1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
-Alchemy-Unity-Odin-Altern1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.04%
+Unity-Pity-System-MonteCa2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   26.42% 
+Unity-Essential-Extension1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.7% 
+Alchemy-Unity-Odin-Altern1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
+Unity-TimedInputBuffer-Ge1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
+Unity-Interactive-Volumet1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.99%
 
 💻 操作系统: 
-Windows                  11 hrs 12 mins      ██████████████████░░░░░░░   72.0% 
-Unknown OS               4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.0%
+Windows                  6 hrs 54 mins       ████████████████░░░░░░░░░   66.39% 
+Unknown OS               3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.61%
 
 ```
 
@@ -92,7 +92,7 @@ ShaderLab                10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026
+ Last Updated on 17/09/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
