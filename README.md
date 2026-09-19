@@ -58,27 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       5 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.7% 
-unity                    3 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   32.91% 
-HLSL                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
-Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
-ShaderLab                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29%
+C#                       4 hrs 16 mins       ███████████░░░░░░░░░░░░░░   47.11% 
+unity                    3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.03% 
+HLSL                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
+ShaderLab                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.07% 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
 
 🔥 编辑器: 
-Rider                    6 hrs 32 mins       ██████████████░░░░░░░░░░░   58.38% 
-Unity                    3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.84% 
-Grok Build               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.78%
+Rider                    5 hrs 41 mins       ███████████████░░░░░░░░░░   62.76% 
+Unity                    3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.94% 
+Grok Build               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 
 🐱‍💻 项目: 
-Unity-Pity-System-MonteCa2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.54% 
-Unity-Interactive-Volumet2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31% 
-Unity-Essential-Extension1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
-Alchemy-Unity-Odin-Altern1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
-Unity-TimedInputBuffer-Ge1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.94%
+Unity-Pity-System-MonteCa2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   30.31% 
+Unity-Interactive-Volumet2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   30.02% 
+Unity-Essential-Extension1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
+Alchemy-Unity-Odin-Altern1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.23% 
+My project               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13%
 
 💻 操作系统: 
-Windows                  7 hrs 31 mins       ████████████████░░░░░░░░░   67.16% 
-Unknown OS               3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.84%
+Windows                  5 hrs 43 mins       ███████████████░░░░░░░░░░   63.06% 
+Unknown OS               3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.94%
 
 ```
 
@@ -92,7 +92,7 @@ ShaderLab                9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026
+ Last Updated on 19/09/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
