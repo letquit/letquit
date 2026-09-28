@@ -58,27 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C#                       4 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.05% 
-ShaderLab                3 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   30.13% 
-unity                    2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88% 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76% 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+C#                       3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.45% 
+ShaderLab                3 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.97% 
+unity                    1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   22.38% 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 🔥 编辑器: 
-Rider                    7 hrs 1 min         █████████████████░░░░░░░░   68.22% 
-Unity                    2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88% 
-Grok Build               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.91%
+Rider                    5 hrs 54 mins       █████████████████░░░░░░░░   68.21% 
+Unity                    1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   22.38% 
+Grok Build               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.4%
 
 🐱‍💻 项目: 
-URP-Shader-Code-Basics   3 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   30.13% 
-Unity-Boids-Flocking-Simu1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.13% 
-My project               1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.83% 
-Unity-Interaction-System-1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.63% 
-Weighted-Loot-Table-Unity1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.34%
+URP-Shader-Code-Basics   3 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.97% 
+My project               1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   22.38% 
+Unity-Interaction-System-1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
+Weighted-Loot-Table-Unity1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.23% 
+UnityCliCiDemo           18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.65%
 
 💻 操作系统: 
-Windows                  7 hrs 50 mins       ███████████████████░░░░░░   76.12% 
-Unknown OS               2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88%
+Windows                  6 hrs 43 mins       ███████████████████░░░░░░   77.62% 
+Unknown OS               1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   22.38%
 
 ```
 
@@ -92,7 +92,7 @@ ShaderLab                7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026
+ Last Updated on 28/09/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
