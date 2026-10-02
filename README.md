@@ -58,26 +58,25 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-ShaderLab                7 hrs 59 mins       ███████████████████░░░░░░   77.59% 
-unity                    2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01% 
-HLSL                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
-C#                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+ShaderLab                6 hrs 27 mins       ██████████████████░░░░░░░   75.18% 
+unity                    1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.32% 
+HLSL                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51% 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 编辑器: 
-Rider                    7 hrs 6 mins        █████████████████░░░░░░░░   69.02% 
-Unity                    2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01% 
-Grok Build               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   9.97%
+Rider                    5 hrs 56 mins       █████████████████░░░░░░░░   69.1% 
+Unity                    1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
+Grok Build               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.0%
 
 🐱‍💻 项目: 
-URP-Shader-Code-Basics   8 hrs 6 mins        ███████████████████░░░░░░   78.69% 
-My project               2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01% 
-Weighted-Loot-Table-Unity1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+URP-Shader-Code-Basics   6 hrs 36 mins       ███████████████████░░░░░░   76.79% 
+My project               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
+komichi-radio-main       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.32%
 
 💻 操作系统: 
-Windows                  8 hrs 8 mins        ███████████████████░░░░░░   78.99% 
-Unknown OS               2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01%
+Windows                  7 hrs 3 mins        ████████████████████░░░░░   82.11% 
+Unknown OS               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89%
 
 ```
 
@@ -91,7 +90,7 @@ ShaderLab                7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026
+ Last Updated on 02/10/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
