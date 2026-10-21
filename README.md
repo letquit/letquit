@@ -19,9 +19,9 @@
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 717 今年的贡献 2026
+> 🏆 721 今年的贡献 2026
  > 
-> 📦 9.9 MB 占用了 GitHub 内存 
+> 📦 10.0 MB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
@@ -58,19 +58,20 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-unity                    3 hrs 41 mins       █████████████████████████   100.0%
+unity                    6 hrs 9 mins        █████████████████████████   100.0%
 
 🔥 编辑器: 
-Unity                    3 hrs 41 mins       █████████████████████████   100.0%
+Unity                    6 hrs 9 mins        █████████████████████████   100.0%
 
 🐱‍💻 项目: 
-Mirror-Ghost-Parallax-Sha1 hr 44 mins        ███████████░░░░░░░░░░░░░░   47.12% 
-Smart-Particle-Shader-Uni1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   30.77% 
-Gerstner-Water-ShaderGrap44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19% 
-Pixel-Game-Studio        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+SixWay-Lit-VFX-Unity6    2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.57% 
+Mirror-Ghost-Parallax-Sha1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   30.64% 
+Smart-Particle-Shader-Uni1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
+Gerstner-Water-ShaderGrap44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14% 
+Pixel-Game-Studio        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
 
 💻 操作系统: 
-Unknown OS               3 hrs 41 mins       █████████████████████████   100.0%
+Unknown OS               6 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
@@ -84,7 +85,7 @@ ShaderLab                4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026
+ Last Updated on 21/10/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
