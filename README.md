@@ -15,17 +15,17 @@
 
 <strong>WakaTime</strong>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-34.1%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-34.2%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 727 今年的贡献 2026
+> 🏆 729 今年的贡献 2026
  > 
 > 📦 10.1 MB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
-> 📜 238 公共仓库 
+> 📜 239 公共仓库 
  > 
 > 🔑 1 私人仓库 
  > 
@@ -41,8 +41,8 @@
 📅 **我最有效率是 星期一** 
 
 ```text
-星期一          34 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-星期二          20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+星期一          33 commits     ██████░░░░░░░░░░░░░░░░░░░   24.26% 
+星期二          21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
 星期三          19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
 星期四          18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
 星期五          19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
@@ -58,19 +58,26 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-unity                    5 hrs 26 mins       █████████████████████████   100.0%
+unity                    4 hrs 2 mins        ███████████████████████░░   94.26% 
+C#                       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.69% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
 
 🔥 编辑器: 
-Unity                    5 hrs 26 mins       █████████████████████████   100.0%
+Unity                    2 hrs 39 mins       ███████████████░░░░░░░░░░   61.94% 
+Rider                    1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   37.84% 
+Jetbrainsrider           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 🐱‍💻 项目: 
-SixWay-Lit-VFX-Unity6    2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   42.48% 
-Mirror-Ghost-Parallax-Sha1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   34.64% 
-Gerstner-Water-ShaderGrap44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
-VHS-Retro-Effect-Unity6  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.15%
+SixWay-Lit-VFX-Unity6    2 hrs 52 mins       ████████████████░░░░░░░░░   67.17% 
+Player-Cutout-Shader-URP 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
+VHS-Retro-Effect-Unity6  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Mirror-Ghost-Parallax-Sha8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32% 
+windowsterminal-c-windows3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
 
 💻 操作系统: 
-Unknown OS               5 hrs 26 mins       █████████████████████████   100.0%
+Unknown OS               2 hrs 39 mins       ███████████████░░░░░░░░░░   61.94% 
+Windows                  1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   38.06%
 
 ```
 
@@ -84,7 +91,7 @@ ShaderLab                4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026
+ Last Updated on 27/10/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
