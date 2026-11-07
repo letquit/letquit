@@ -58,26 +58,26 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-unity                    19 hrs 18 mins      █████████████████░░░░░░░░   68.37% 
-C#                       4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
-Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-Text                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.79% 
-Other                    48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87%
+unity                    14 hrs 34 mins      ███████████████░░░░░░░░░░   59.92% 
+C#                       3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
+Python                   2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
+Markdown                 1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
+Text                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.9%
 
 🔥 编辑器: 
-Unity                    15 hrs 36 mins      █████████████░░░░░░░░░░░░   55.24% 
-Rider                    12 hrs 38 mins      ███████████░░░░░░░░░░░░░░   44.76%
+Unity                    13 hrs 4 mins       █████████████░░░░░░░░░░░░   53.74% 
+Rider                    11 hrs 15 mins      ███████████░░░░░░░░░░░░░░   46.26%
 
 🐱‍💻 项目: 
-Pixel-Game-Studio        22 hrs 28 mins      ████████████████████░░░░░   79.58% 
-URP-Recursive-Portal-Syst2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.82% 
-Retro-Palette-ShaderGraph44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64% 
-Octocamo-Terrain-Adaptive38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28% 
-Ice-Refraction-Shader-Gra36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
+Pixel-Game-Studio        19 hrs 40 mins      ████████████████████░░░░░   80.83% 
+URP-Recursive-Portal-Syst2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
+Ice-Refraction-Shader-Gra36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48% 
+ShaderGraph-Wall-Cutout  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
+Octocamo-Terrain-Adaptive17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
 
 💻 操作系统: 
-Unknown OS               15 hrs 36 mins      █████████████░░░░░░░░░░░░   55.24% 
-Windows                  12 hrs 38 mins      ███████████░░░░░░░░░░░░░░   44.76%
+Unknown OS               13 hrs 4 mins       █████████████░░░░░░░░░░░░   53.74% 
+Windows                  11 hrs 15 mins      ███████████░░░░░░░░░░░░░░   46.26%
 
 ```
 
@@ -91,7 +91,7 @@ ShaderLab                3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2026
+ Last Updated on 07/11/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
