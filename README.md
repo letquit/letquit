@@ -15,17 +15,17 @@
 
 <strong>WakaTime</strong>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-28.7%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-28.8%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 767 今年的贡献 2026
+> 🏆 768 今年的贡献 2026
  > 
 > 📦 12.2 MB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
-> 📜 254 公共仓库 
+> 📜 255 公共仓库 
  > 
 > 🔑 1 私人仓库 
  > 
@@ -43,10 +43,10 @@
 ```text
 星期一          30 commits     ██████░░░░░░░░░░░░░░░░░░░   25.21% 
 星期二          22 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.49% 
-星期三          18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.13% 
+星期三          19 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
 星期四          15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
 星期五          15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-星期六          10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
+星期六          9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.56% 
 星期天          9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.56%
 
 ```
@@ -58,26 +58,27 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-unity                    9 hrs 53 mins       ████████████████░░░░░░░░░   66.02% 
-C#                       1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
-Python                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.14% 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.47% 
-Markdown                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95%
+unity                    4 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   34.99% 
+Markdown                 3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.94% 
+Python                   2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+C#                       50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
+Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39%
 
 🔥 编辑器: 
-Unity                    9 hrs 26 mins       ███████████████░░░░░░░░░░   62.99% 
-Rider                    5 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.01%
+Rider                    8 hrs 29 mins       ███████████████░░░░░░░░░░   63.45% 
+Unity                    3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.55% 
+Claude Code              56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.0%
 
 🐱‍💻 项目: 
-Pixel-Game-Studio        10 hrs 39 mins      █████████████████░░░░░░░░   71.16% 
-URP-Recursive-Portal-Syst2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99% 
-ShaderGraph-Snow-Layer   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
-ShaderGraph-Wall-Cutout  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
-CutoutSceneProbe-2026110613 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
+Pixel-Game-Studio        11 hrs 19 mins      █████████████████████░░░░   84.68% 
+ShaderGraph-Snow-Layer   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   7.71% 
+ShaderGraph-All-Nodes-Ref29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.72% 
+ShaderGraph-Wall-Cutout  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17% 
+CutoutSceneProbe-2026110613 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
 
 💻 操作系统: 
-Unknown OS               9 hrs 26 mins       ███████████████░░░░░░░░░░   62.99% 
-Windows                  5 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.01%
+Windows                  9 hrs 25 mins       █████████████████░░░░░░░░   70.45% 
+Unknown OS               3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.55%
 
 ```
 
@@ -91,7 +92,7 @@ ShaderLab                3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2026
+ Last Updated on 12/11/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
