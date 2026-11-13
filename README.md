@@ -58,27 +58,26 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-unity                    4 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   34.99% 
-Markdown                 3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.94% 
-Python                   2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-C#                       50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
-Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39%
+unity                    2 hrs 45 mins       ███████████░░░░░░░░░░░░░░   45.95% 
+Python                   1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   26.93% 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.36% 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.4% 
+C#                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.47%
 
 🔥 编辑器: 
-Rider                    8 hrs 29 mins       ███████████████░░░░░░░░░░   63.45% 
-Unity                    3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.55% 
-Claude Code              56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.0%
+Rider                    3 hrs 16 mins       █████████████░░░░░░░░░░░░   54.4% 
+Unity                    2 hrs 44 mins       ███████████░░░░░░░░░░░░░░   45.6%
 
 🐱‍💻 项目: 
-Pixel-Game-Studio        11 hrs 19 mins      █████████████████████░░░░   84.68% 
-ShaderGraph-Snow-Layer   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   7.71% 
-ShaderGraph-All-Nodes-Ref29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.72% 
-ShaderGraph-Wall-Cutout  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17% 
-CutoutSceneProbe-2026110613 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
+Pixel-Game-Studio        3 hrs 57 mins       ████████████████░░░░░░░░░   65.99% 
+ShaderGraph-Snow-Layer   1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
+ShaderGraph-All-Nodes-Ref29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.28% 
+ShaderGraph-Wall-Cutout  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.84% 
+CutoutSceneProbe-2026110613 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.72%
 
 💻 操作系统: 
-Windows                  9 hrs 25 mins       █████████████████░░░░░░░░   70.45% 
-Unknown OS               3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.55%
+Windows                  3 hrs 16 mins       █████████████░░░░░░░░░░░░   54.4% 
+Unknown OS               2 hrs 44 mins       ███████████░░░░░░░░░░░░░░   45.6%
 
 ```
 
@@ -92,7 +91,7 @@ ShaderLab                3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2026
+ Last Updated on 13/11/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
