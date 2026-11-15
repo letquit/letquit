@@ -15,13 +15,13 @@
 
 <strong>WakaTime</strong>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-29.0%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-29.1%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
 **🐱 我的 GitHub 数据** 
 
 > 🏆 771 今年的贡献 2026
  > 
-> 📦 12.2 MB 占用了 GitHub 内存 
+> 📦 12.3 MB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
@@ -58,18 +58,26 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-unity                    1 hr 42 mins        █████████████████████████   100.0%
+unity                    1 hr 49 mins        ████████████████░░░░░░░░░   66.66% 
+C#                       28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08% 
+JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88% 
+Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
 
 🔥 编辑器: 
-Unity                    1 hr 42 mins        █████████████████████████   100.0%
+Unity                    1 hr 49 mins        ████████████████░░░░░░░░░   66.66% 
+Rider                    54 mins             ████████░░░░░░░░░░░░░░░░░   33.34%
 
 🐱‍💻 项目: 
-ShaderGraph-Snow-Layer   1 hr 1 min          ███████████████░░░░░░░░░░   60.42% 
-ShaderGraph-All-Nodes-Ref29 mins             ███████░░░░░░░░░░░░░░░░░░   29.17% 
-Pixel-Game-Studio        10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.42%
+Mario64-Painting-Ripple-U1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   41.4% 
+ShaderGraph-All-Nodes-Ref29 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
+URP-Custom-Decal-ShaderGr23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
+FreeCast浏览器插件            20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
+URP-Glitter-Shader-Graph 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.76%
 
 💻 操作系统: 
-Unknown OS               1 hr 42 mins        █████████████████████████   100.0%
+Unknown OS               1 hr 49 mins        ████████████████░░░░░░░░░   66.66% 
+Windows                  54 mins             ████████░░░░░░░░░░░░░░░░░   33.34%
 
 ```
 
@@ -83,7 +91,7 @@ ShaderLab                3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026
+ Last Updated on 15/11/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
