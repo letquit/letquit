@@ -58,26 +58,26 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-unity                    2 hrs 40 mins       █████████████████░░░░░░░░   69.49% 
-C#                       28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
-JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.07% 
-ShaderLab                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.11% 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06%
+unity                    2 hrs 59 mins       ██████████████████░░░░░░░   71.83% 
+C#                       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
+JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.37% 
+ShaderLab                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
 
 🔥 编辑器: 
-Unity                    2 hrs 40 mins       █████████████████░░░░░░░░   69.49% 
-Rider                    1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   30.51%
+Unity                    2 hrs 59 mins       ██████████████████░░░░░░░   71.83% 
+Rider                    1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   28.17%
 
 🐱‍💻 项目: 
-Mario64-Painting-Ripple-U1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   29.55% 
-URP-Stencil-Impossible-Ge51 mins             █████░░░░░░░░░░░░░░░░░░░░   22.16% 
-ShaderGraph-All-Nodes-Ref25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
-URP-Custom-Decal-ShaderGr23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
-FreeCast浏览器插件            20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.07%
+Mario64-Painting-Ripple-U1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   27.28% 
+URP-Stencil-Impossible-Ge51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.46% 
+URP-XRay-Vision-ShaderGra27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
+URP-Custom-Decal-ShaderGr23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+FreeCast浏览器插件            20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.37%
 
 💻 操作系统: 
-Unknown OS               2 hrs 40 mins       █████████████████░░░░░░░░   69.49% 
-Windows                  1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   30.51%
+Unknown OS               2 hrs 59 mins       ██████████████████░░░░░░░   71.83% 
+Windows                  1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   28.17%
 
 ```
 
@@ -91,7 +91,7 @@ ShaderLab                3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2026
+ Last Updated on 18/11/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
