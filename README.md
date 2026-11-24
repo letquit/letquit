@@ -15,25 +15,25 @@
 
 <strong>WakaTime</strong>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-28.1%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-28.3%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 783 今年的贡献 2026
+> 🏆 784 今年的贡献 2026
  > 
-> 📦 12.5 MB 占用了 GitHub 内存 
+> 📦 12.6 MB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
-> 📜 264 公共仓库 
+> 📜 265 公共仓库 
  > 
 > 🔑 1 私人仓库 
  > 
 **我是早起的 🐤** 
 
 ```text
-🌞 早晨         27 commits     █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-🌆 白天         65 commits     █████████████░░░░░░░░░░░░   54.17% 
+🌞 早晨         26 commits     █████░░░░░░░░░░░░░░░░░░░░   21.67% 
+🌆 白天         66 commits     █████████████░░░░░░░░░░░░   55.0% 
 🌃 傍晚         23 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.17% 
 🌙 晚上         5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 
@@ -42,12 +42,12 @@
 
 ```text
 星期一          30 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-星期二          21 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+星期二          22 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.33% 
 星期三          19 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
 星期四          15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
 星期五          14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
 星期六          11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
-星期天          10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+星期天          9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
 
 ```
 
@@ -58,26 +58,26 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-unity                    4 hrs 44 mins       ████████████████████░░░░░   80.13% 
-HLSL                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
-ShaderLab                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.98% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75% 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
+unity                    3 hrs 49 mins       ████████████████████░░░░░   80.67% 
+HLSL                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🔥 编辑器: 
-Unity                    4 hrs 50 mins       ████████████████████░░░░░   81.97% 
-Rider                    1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.03%
+Unity                    3 hrs 49 mins       ████████████████████░░░░░   80.67% 
+Rider                    54 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.33%
 
 🐱‍💻 项目: 
-ShaderGraph-VFX-Cookbook-1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   28.89% 
-URP-Halftone-ShaderGraph 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   23.42% 
-Unity-Grass-Rendering-Six57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
-URP-Stencil-Impossible-Ge51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
-URP-XRay-Vision-ShaderGra27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.82%
+ShaderGraph-VFX-Cookbook-1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   36.04% 
+URP-Halftone-ShaderGraph 1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   29.23% 
+Unity-Grass-Rendering-Six57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27% 
+URP-XRay-Vision-ShaderGra27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
+GrassDemoValidation      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
 
 💻 操作系统: 
-Unknown OS               4 hrs 50 mins       ████████████████████░░░░░   81.97% 
-Windows                  1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.03%
+Unknown OS               3 hrs 49 mins       ████████████████████░░░░░   80.67% 
+Windows                  54 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.33%
 
 ```
 
@@ -91,7 +91,7 @@ ShaderLab                2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2026
+ Last Updated on 24/11/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
