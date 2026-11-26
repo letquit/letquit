@@ -19,7 +19,7 @@
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 786 今年的贡献 2026
+> 🏆 787 今年的贡献 2026
  > 
 > 📦 12.6 MB 占用了 GitHub 内存 
  > 
@@ -58,26 +58,26 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-unity                    4 hrs 10 mins       ████████████████████░░░░░   82.02% 
-HLSL                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+unity                    4 hrs 58 mins       ███████████████████░░░░░░   75.98% 
+HLSL                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+C#                       30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
+ShaderLab                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 
 🔥 编辑器: 
-Unity                    4 hrs 10 mins       ████████████████████░░░░░   82.02% 
-Rider                    54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.98%
+Unity                    4 hrs 54 mins       ██████████████████░░░░░░░   75.05% 
+Rider                    1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.95%
 
 🐱‍💻 项目: 
-ShaderGraph-VFX-Cookbook-1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   33.53% 
-URP-Halftone-ShaderGraph 1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   27.19% 
-Unity-Grass-Rendering-Six57 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
-ShaderGraph-Energy-Shield32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
-ShaderGraph-Energy-Shield17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.59%
+ShaderGraph-VFX-Cookbook-1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   26.08% 
+URP-Halftone-ShaderGraph 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   21.15% 
+URP-Gaussian-Blur-Rendere1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
+Unity-Grass-Rendering-Six57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
+ShaderGraph-Energy-Shield32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.15%
 
 💻 操作系统: 
-Unknown OS               4 hrs 10 mins       ████████████████████░░░░░   82.02% 
-Windows                  54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.98%
+Unknown OS               4 hrs 54 mins       ██████████████████░░░░░░░   75.05% 
+Windows                  1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.95%
 
 ```
 
@@ -91,7 +91,7 @@ ShaderLab                2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2026
+ Last Updated on 26/11/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
