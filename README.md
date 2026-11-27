@@ -15,17 +15,17 @@
 
 <strong>WakaTime</strong>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-29.4%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-29.5%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 787 今年的贡献 2026
+> 🏆 788 今年的贡献 2026
  > 
 > 📦 12.6 MB 占用了 GitHub 内存 
  > 
 > 🚫 不开放招聘
  > 
-> 📜 267 公共仓库 
+> 📜 268 公共仓库 
  > 
 > 🔑 1 私人仓库 
  > 
@@ -42,10 +42,10 @@
 
 ```text
 星期一          28 commits     █████░░░░░░░░░░░░░░░░░░░░   23.33% 
-星期二          22 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.33% 
+星期二          21 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
 星期三          21 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
 星期四          15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-星期五          14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
+星期五          15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
 星期六          11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
 星期天          9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
 
@@ -58,26 +58,26 @@
 ⌚︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-unity                    4 hrs 58 mins       ███████████████████░░░░░░   75.98% 
-HLSL                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-C#                       30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
-ShaderLab                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
+unity                    3 hrs 24 mins       █████████████████░░░░░░░░   68.44% 
+HLSL                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13% 
+C#                       30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
+ShaderLab                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
 
 🔥 编辑器: 
-Unity                    4 hrs 54 mins       ██████████████████░░░░░░░   75.05% 
-Rider                    1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.95%
+Unity                    3 hrs 20 mins       ████████████████░░░░░░░░░   67.22% 
+Rider                    1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   32.78%
 
 🐱‍💻 项目: 
-ShaderGraph-VFX-Cookbook-1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   26.08% 
-URP-Halftone-ShaderGraph 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   21.15% 
-URP-Gaussian-Blur-Rendere1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
-Unity-Grass-Rendering-Six57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
-ShaderGraph-Energy-Shield32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.15%
+URP-Halftone-ShaderGraph 1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   27.79% 
+URP-Gaussian-Blur-Rendere1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   21.42% 
+Unity-Grass-Rendering-Six57 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.28% 
+ShaderGraph-Energy-Shield32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+FullscreenSG-Outline-URP 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
 
 💻 操作系统: 
-Unknown OS               4 hrs 54 mins       ██████████████████░░░░░░░   75.05% 
-Windows                  1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.95%
+Unknown OS               3 hrs 20 mins       ████████████████░░░░░░░░░   67.22% 
+Windows                  1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   32.78%
 
 ```
 
@@ -91,7 +91,7 @@ ShaderLab                2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026
+ Last Updated on 27/11/2026
 <!--END_SECTION:waka-->
 
 ### 📈 编码语言统计
